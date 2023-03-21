@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="nybb_16a">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/tmp/.venv/Lib/site-packages/geopandas/datasets/nybb_16a.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
