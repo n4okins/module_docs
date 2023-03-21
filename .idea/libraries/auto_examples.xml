@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="auto_examples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tmp/networkx/doc/auto_examples/auto_examples_jupyter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tmp/networkx/doc/auto_examples/auto_examples_python.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

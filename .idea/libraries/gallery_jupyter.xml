@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gallery_jupyter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/matplotlib/_downloads/fcaddee3a42ae2e2c41e00ae08d70347/gallery_jupyter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plot_types_jupyter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/matplotlib/_downloads/4e1270d363927f553fd952d7a2603176/plot_types_jupyter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sampson_data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tmp/networkx/examples/drawing/sampson_data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="berlin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tmp/.venv/Lib/site-packages/libpysal/examples/berlin/prenz_bound.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tmp/.venv/Lib/site-packages/libpysal/examples/berlin/prenzlauer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
